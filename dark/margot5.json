@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/margot-robbie-wallpaper-55031-56770-hd-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#171819",
+        "foreground": "#c5c5c5",
+        "cursor": "#765b49"
+    },
+    "colors": {
+        "color0": "#171819",
+        "color1": "#634338",
+        "color2": "#4f5353",
+        "color3": "#bb907c",
+        "color4": "#877e76",
+        "color5": "#bc6166",
+        "color6": "#765b49",
+        "color7": "#c5c5c5",
+        "color8": "#2e3133",
+        "color9": "#8a523e",
+        "color10": "#5c7676",
+        "color11": "#ffb38d",
+        "color12": "#bfa289",
+        "color13": "#FF6B74",
+        "color14": "#a57352",
+        "color15": "#ffffff"
+    }
+}

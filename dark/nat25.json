@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/Natalie-Portman-full-HD.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#171616",
+        "foreground": "#c5c4c4",
+        "cursor": "#efb1a0"
+    },
+    "colors": {
+        "color0": "#171616",
+        "color1": "#6d3d36",
+        "color2": "#695257",
+        "color3": "#985d4d",
+        "color4": "#906a66",
+        "color5": "#a04f56",
+        "color6": "#efb1a0",
+        "color7": "#c5c4c4",
+        "color8": "#515050",
+        "color9": "#98473B",
+        "color10": "#945E6A",
+        "color11": "#D47055",
+        "color12": "#CB7C74",
+        "color13": "#DF5762",
+        "color14": "#FFD3B3",
+        "color15": "#FFFEFE"
+    }
+}

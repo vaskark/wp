@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/aurora_australis.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181717",
+        "foreground": "#c5c5c5",
+        "cursor": "#3b3543"
+    },
+    "colors": {
+        "color0": "#181717",
+        "color1": "#6d4753",
+        "color2": "#745b5a",
+        "color3": "#d2c870",
+        "color4": "#c47971",
+        "color5": "#c97250",
+        "color6": "#3b3543",
+        "color7": "#c5c5c5",
+        "color8": "#312f2f",
+        "color9": "#995067",
+        "color10": "#a46967",
+        "color11": "#ffff7c",
+        "color12": "#ff8d7e",
+        "color13": "#ff8c55",
+        "color14": "#4b3d5e",
+        "color15": "#ffffff"
+    }
+}

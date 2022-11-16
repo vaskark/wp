@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/w6rk2huxtty81-1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#171719",
+        "foreground": "#c5c5c5",
+        "cursor": "#bb947d"
+    },
+    "colors": {
+        "color0": "#171719",
+        "color1": "#835e4e",
+        "color2": "#837475",
+        "color3": "#d7b398",
+        "color4": "#35445e",
+        "color5": "#644444",
+        "color6": "#bb947d",
+        "color7": "#c5c5c5",
+        "color8": "#2e2e33",
+        "color9": "#b77457",
+        "color10": "#ba868a",
+        "color11": "#ffe5ad",
+        "color12": "#3b5583",
+        "color13": "#8c4d4d",
+        "color14": "#ffbb8e",
+        "color15": "#ffffff"
+    }
+}

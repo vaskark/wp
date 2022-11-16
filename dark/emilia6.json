@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/emilia-clarke-english-actress-4068x6193-4674.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181615",
+        "foreground": "#c5c4c4",
+        "cursor": "#c29473"
+    },
+    "colors": {
+        "color0": "#181615",
+        "color1": "#684131",
+        "color2": "#b66b46",
+        "color3": "#885c46",
+        "color4": "#89705a",
+        "color5": "#93645d",
+        "color6": "#c29473",
+        "color7": "#c5c4c4",
+        "color8": "#322e2c",
+        "color9": "#915035",
+        "color10": "#fd854a",
+        "color11": "#be734d",
+        "color12": "#c09066",
+        "color13": "#CE7669",
+        "color14": "#ffbd81",
+        "color15": "#fffefe"
+    }
+}

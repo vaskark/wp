@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/8k-jennifer-lawrence-t9-1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181716",
+        "foreground": "#c5c5c4",
+        "cursor": "#d2b099"
+    },
+    "colors": {
+        "color0": "#181716",
+        "color1": "#835d4a",
+        "color2": "#674639",
+        "color3": "#bd937d",
+        "color4": "#9a735f",
+        "color5": "#dba6a5",
+        "color6": "#d2b099",
+        "color7": "#c5c5c4",
+        "color8": "#32302d",
+        "color9": "#b77452",
+        "color10": "#90563f",
+        "color11": "#ffb88e",
+        "color12": "#d8906b",
+        "color13": "#ffbfbd",
+        "color14": "#ffe0af",
+        "color15": "#fffffe"
+    }
+}

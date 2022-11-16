@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/ajcw7kzwmi181.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151817",
+        "foreground": "#c4c5c5",
+        "cursor": "#0d4d4d"
+    },
+    "colors": {
+        "color0": "#151817",
+        "color1": "#b15536",
+        "color2": "#d6844e",
+        "color3": "#844930",
+        "color4": "#837a51",
+        "color5": "#0d6461",
+        "color6": "#0d4d4d",
+        "color7": "#c4c5c5",
+        "color8": "#2c3230",
+        "color9": "#f56737",
+        "color10": "#ffa752",
+        "color11": "#b75a32",
+        "color12": "#b8a75b",
+        "color13": "#098985",
+        "color14": "#0a6a6a",
+        "color15": "#feffff"
+    }
+}
