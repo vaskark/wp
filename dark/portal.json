@@ -1,27 +1,27 @@
 {
-    "wallpaper": "/home/jason/Pictures/fantasy-portal-4k-2560\u00d71440.jpg",
+    "wallpaper": "/home/jason/Pictures/fantasy-portal-4k-2560x1440.jpg",
     "alpha": "100",
     "special": {
         "background": "#161617",
         "foreground": "#c4c4c5",
-        "cursor": "#c86d47"
+        "cursor": "#f5c295"
     },
     "colors": {
         "color0": "#161617",
         "color1": "#774742",
-        "color2": "#da8774",
-        "color3": "#8f6249",
-        "color4": "#f5c295",
-        "color5": "#fe5550",
-        "color6": "#c86d47",
+        "color2": "#95565f",
+        "color3": "#da8774",
+        "color4": "#da8774",
+        "color5": "#fe6b5a",
+        "color6": "#f5c295",
         "color7": "#c4c4c5",
         "color8": "#2e2e30",
         "color9": "#a65249",
-        "color10": "#ffa181",
-        "color11": "#c77b50",
-        "color12": "#fff9a7",
-        "color13": "#FF5952",
-        "color14": "#ff864a",
+        "color10": "#d06070",
+        "color11": "#ffa181",
+        "color12": "#ffa181",
+        "color13": "#FE6B5A",
+        "color14": "#fff9a7",
         "color15": "#fefeff"
     }
 }
