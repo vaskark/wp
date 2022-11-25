@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/lumete17.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161616",
+        "foreground": "#c4c4c4",
+        "cursor": "#8f8171"
+    },
+    "colors": {
+        "color0": "#161616",
+        "color1": "#70412b",
+        "color2": "#3f6c68",
+        "color3": "#ba957f",
+        "color4": "#846043",
+        "color5": "#ff8661",
+        "color6": "#8f8171",
+        "color7": "#c4c4c4",
+        "color8": "#2f2f2f",
+        "color9": "#9b502d",
+        "color10": "#469790",
+        "color11": "#ffbc90",
+        "color12": "#b87b4a",
+        "color13": "#FFA267",
+        "color14": "#caa882",
+        "color15": "#ffffff"
+    }
+}
