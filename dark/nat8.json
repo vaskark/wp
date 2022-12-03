@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/PFLI7Ya-1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1a19",
+        "foreground": "#c5c5c5",
+        "cursor": "#8f7a74"
+    },
+    "colors": {
+        "color0": "#1a1a19",
+        "color1": "#644b41",
+        "color2": "#6d5965",
+        "color3": "#bd9b8f",
+        "color4": "#4f5d68",
+        "color5": "#754e4f",
+        "color6": "#8f7a74",
+        "color7": "#c5c5c5",
+        "color8": "#333331",
+        "color9": "#8c5c49",
+        "color10": "#9A6685",
+        "color11": "#ffbfa4",
+        "color12": "#5a7a93",
+        "color13": "#A4585A",
+        "color14": "#ca9586",
+        "color15": "#ffffff"
+    }
+}
