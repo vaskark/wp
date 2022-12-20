@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/lfgk1v7b266a1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1c1c",
+        "foreground": "#8bc1bd",
+        "cursor": "#2a7589"
+    },
+    "colors": {
+        "color0": "#1c1c1c",
+        "color1": "#af2a1e",
+        "color2": "#1e9479",
+        "color3": "#1e9479",
+        "color4": "#114250",
+        "color5": "#414555",
+        "color6": "#2a7589",
+        "color7": "#8bc1bd",
+        "color8": "#1f1f1f",
+        "color9": "#af2a1e",
+        "color10": "#1e9479",
+        "color11": "#1e9479",
+        "color12": "#114250",
+        "color13": "#414555",
+        "color14": "#2a7589",
+        "color15": "#8bc1bd"
+    }
+}
