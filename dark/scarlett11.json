@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/Scarlett-Johansson-Mango-Photoshoot-UHQ-scarlett-johansson-8648513-1926-2560.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181818",
+        "foreground": "#c5c5c5",
+        "cursor": "#6b94cb"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#7c7980",
+        "color2": "#49374d",
+        "color3": "#b3aba5",
+        "color4": "#4e5d70",
+        "color5": "#7f3692",
+        "color6": "#6b94cb",
+        "color7": "#c5c5c5",
+        "color8": "#313131",
+        "color9": "#9e8db6",
+        "color10": "#643E6C",
+        "color11": "#fedbc0",
+        "color12": "#59779d",
+        "color13": "#AC39CA",
+        "color14": "#76bdff",
+        "color15": "#ffffff"
+    }
+}
