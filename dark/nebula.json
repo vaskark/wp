@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/s5iki9vg2oda1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#171719",
+        "foreground": "#c5c5c5",
+        "cursor": "#8ca2bc"
+    },
+    "colors": {
+        "color0": "#171719",
+        "color1": "#64444c",
+        "color2": "#7e5b57",
+        "color3": "#7f8faf",
+        "color4": "#7d6f7f",
+        "color5": "#694f65",
+        "color6": "#8ca2bc",
+        "color7": "#c5c5c5",
+        "color8": "#2e2e33",
+        "color9": "#8c4d5d",
+        "color10": "#b16b63",
+        "color11": "#91b3f7",
+        "color12": "#ae80b4",
+        "color13": "#945A8B",
+        "color14": "#a0d0ff",
+        "color15": "#ffffff"
+    }
+}
