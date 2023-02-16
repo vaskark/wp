@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/lawmsxg2zgia1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151515",
+        "foreground": "#c4c4c4",
+        "cursor": "#9f9c97"
+    },
+    "colors": {
+        "color0": "#151515",
+        "color1": "#6a2428",
+        "color2": "#214255",
+        "color3": "#7a7473",
+        "color4": "#a86e76",
+        "color5": "#a33b3f",
+        "color6": "#9f9c97",
+        "color7": "#c4c4c4",
+        "color8": "#2e2e2e",
+        "color9": "#93252b",
+        "color10": "#235776",
+        "color11": "#ad8b86",
+        "color12": "#ec7c8c",
+        "color13": "#e23e44",
+        "color14": "#e2cfb0",
+        "color15": "#ffffff"
+    }
+}
