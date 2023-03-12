@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/bryce-dallas-howard_2880x1800.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1816",
+        "foreground": "#c6c5c4",
+        "cursor": "#a5adbe"
+    },
+    "colors": {
+        "color0": "#1b1816",
+        "color1": "#82493a",
+        "color2": "#76595b",
+        "color3": "#ce9278",
+        "color4": "#90878c",
+        "color5": "#d75b5d",
+        "color6": "#a5adbe",
+        "color7": "#c6c5c4",
+        "color8": "#36302c",
+        "color9": "#b5573f",
+        "color10": "#A6666A",
+        "color11": "#ffb586",
+        "color12": "#cd9db8",
+        "color13": "#FF6265",
+        "color14": "#bfd8ff",
+        "color15": "#fffffd"
+    }
+}

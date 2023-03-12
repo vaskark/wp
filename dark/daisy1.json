@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/wp3112066-daisy-ridley-2018-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#171514",
+        "foreground": "#c5c4c4",
+        "cursor": "#a47d69"
+    },
+    "colors": {
+        "color0": "#171514",
+        "color1": "#5c3721",
+        "color2": "#493a43",
+        "color3": "#80563d",
+        "color4": "#866757",
+        "color5": "#964e50",
+        "color6": "#a47d69",
+        "color7": "#c5c4c4",
+        "color8": "#312d2b",
+        "color9": "#7f4522",
+        "color10": "#674258",
+        "color11": "#b26c43",
+        "color12": "#bc8162",
+        "color13": "#D1565A",
+        "color14": "#e69c77",
+        "color15": "#fffefe"
+    }
+}
