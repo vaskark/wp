@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/hayley-atwell-devushka-guby-kheili-etvell.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161515",
+        "foreground": "#c4c4c4",
+        "cursor": "#4c3127"
+    },
+    "colors": {
+        "color0": "#161515",
+        "color1": "#723643",
+        "color2": "#6c544c",
+        "color3": "#a18172",
+        "color4": "#5b4236",
+        "color5": "#86455d",
+        "color6": "#4c3127",
+        "color7": "#c4c4c4",
+        "color8": "#2f2d2d",
+        "color9": "#9f3b50",
+        "color10": "#986756",
+        "color11": "#e3a182",
+        "color12": "#7f523c",
+        "color13": "#BB4C75",
+        "color14": "#6a3c2b",
+        "color15": "#ffffff"
+    }
+}
