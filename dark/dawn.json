@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/eclq6vswvera1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#18191a",
+        "foreground": "#c5c5c5",
+        "cursor": "#525f81"
+    },
+    "colors": {
+        "color0": "#18191a",
+        "color1": "#6e5770",
+        "color2": "#3d435e",
+        "color3": "#796e8a",
+        "color4": "#455273",
+        "color5": "#65516a",
+        "color6": "#525f81",
+        "color7": "#c5c5c5",
+        "color8": "#2f3234",
+        "color9": "#99649e",
+        "color10": "#455084",
+        "color11": "#997ec3",
+        "color12": "#4d65a1",
+        "color13": "#8A5D95",
+        "color14": "#5c75b5",
+        "color15": "#ffffff"
+    }
+}
