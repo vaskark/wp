@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/wp9098849-4k-ana-de-armas-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181817",
+        "foreground": "#c5c5c5",
+        "cursor": "#8e7b71"
+    },
+    "colors": {
+        "color0": "#181817",
+        "color1": "#6b4631",
+        "color2": "#524944",
+        "color3": "#8b6448",
+        "color4": "#c2a691",
+        "color5": "#933b47",
+        "color6": "#8e7b71",
+        "color7": "#c5c5c5",
+        "color8": "#31312f",
+        "color9": "#955835",
+        "color10": "#745C4E",
+        "color11": "#c27f4f",
+        "color12": "#ffd4a6",
+        "color13": "#cc3f52",
+        "color14": "#c99a82",
+        "color15": "#ffffff"
+    }
+}
