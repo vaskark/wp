@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/ana-de-armas-5k-5500x3668-9684.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#171617",
+        "foreground": "#c5c4c5",
+        "cursor": "#7f7180"
+    },
+    "colors": {
+        "color0": "#171617",
+        "color1": "#774036",
+        "color2": "#9d6b6e",
+        "color3": "#bc8f86",
+        "color4": "#48475e",
+        "color5": "#9a3542",
+        "color6": "#7f7180",
+        "color7": "#c5c4c5",
+        "color8": "#302e30",
+        "color9": "#a54b3a",
+        "color10": "#DD797F",
+        "color11": "#ffab99",
+        "color12": "#535184",
+        "color13": "#D5374B",
+        "color14": "#b283b5",
+        "color15": "#fffeff"
+    }
+}
