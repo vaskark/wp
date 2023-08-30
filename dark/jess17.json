@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/qsplbqe552ja1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161615",
+        "foreground": "#c4c4c4",
+        "cursor": "#8c6142"
+    },
+    "colors": {
+        "color0": "#161615",
+        "color1": "#6b412d",
+        "color2": "#998d65",
+        "color3": "#bf8141",
+        "color4": "#44769f",
+        "color5": "#91525d",
+        "color6": "#8c6142",
+        "color7": "#c4c4c4",
+        "color8": "#2f2f2d",
+        "color9": "#955030",
+        "color10": "#D7C072",
+        "color11": "#ffa743",
+        "color12": "#499ADD",
+        "color13": "#CB5B6F",
+        "color14": "#c37b48",
+        "color15": "#ffffff"
+    }
+}
