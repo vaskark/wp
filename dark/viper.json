@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/veph51klsmgb1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#191919",
+        "foreground": "#c5c5c5",
+        "cursor": "#a4aaa8"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#5d5754",
+        "color2": "#57605d",
+        "color3": "#a9a29e",
+        "color4": "#615c58",
+        "color5": "#9f5a4b",
+        "color6": "#a4aaa8",
+        "color7": "#c5c5c5",
+        "color8": "#323232",
+        "color9": "#846d61",
+        "color10": "#65887c",
+        "color11": "#f0ccb8",
+        "color12": "#8a7666",
+        "color13": "#DD6B52",
+        "color14": "#bff2e1",
+        "color15": "#ffffff"
+    }
+}
