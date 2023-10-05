@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/seicgo784js81-1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#191818",
+        "foreground": "#c5c5c5",
+        "cursor": "#6c5e4d"
+    },
+    "colors": {
+        "color0": "#191818",
+        "color1": "#4b4c58",
+        "color2": "#808662",
+        "color3": "#86796d",
+        "color4": "#4B4C58",
+        "color5": "#96404b",
+        "color6": "#6c5e4d",
+        "color7": "#c5c5c5",
+        "color8": "#323030",
+        "color9": "#56597c",
+        "color10": "#B0BD70",
+        "color11": "#bd9c7d",
+        "color12": "#56597C",
+        "color13": "#d04557",
+        "color14": "#987b58",
+        "color15": "#ffffff"
+    }
+}
