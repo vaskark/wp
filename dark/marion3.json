@@ -1,27 +1,27 @@
 {
-    "wallpaper": "/home/jason/Pictures/rsnodmd4zox71.jpg",
+    "wallpaper": "/home/jason/Pictures/wp2095850-marion-cotillard-2017-wallpapers.jpg",
     "alpha": "100",
     "special": {
-        "background": "#1c1c1c",
-        "foreground": "#98d1ce",
-        "cursor": "#195465"
+        "background": "#19191c",
+        "foreground": "#c5c5c6",
+        "cursor": "#ccaa91"
     },
     "colors": {
-        "color0": "#1c1c1c",
-        "color1": "#c33027",
-        "color2": "#26a98b",
-        "color3": "#33859d",
-        "color4": "#4e5165",
-        "color5": "#33859d",
-        "color6": "#195465",
-        "color7": "#98d1ce",
-        "color8": "#1f1f1f",
-        "color9": "#ff3023",
-        "color10": "#23e9bc",
-        "color11": "#34b4d9",
-        "color12": "#59608e",
-        "color13": "#34b4d9",
-        "color14": "#18718b",
-        "color15": "#caffff"
+        "color0": "#19191c",
+        "color1": "#674148",
+        "color2": "#566163",
+        "color3": "#b88f7d",
+        "color4": "#4f5261",
+        "color5": "#855458",
+        "color6": "#ccaa91",
+        "color7": "#c5c5c6",
+        "color8": "#303036",
+        "color9": "#904956",
+        "color10": "#63868C",
+        "color11": "#ffb28e",
+        "color12": "#5b6389",
+        "color13": "#BA5F66",
+        "color14": "#ffd9a5",
+        "color15": "#fefeff"
     }
 }
