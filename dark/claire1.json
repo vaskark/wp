@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/wp7316470-claire-foy-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181919",
+        "foreground": "#ffffff",
+        "cursor": "#c08b7f"
+    },
+    "colors": {
+        "color0": "#181919",
+        "color1": "#674b49",
+        "color2": "#4a6061",
+        "color3": "#7f6055",
+        "color4": "#294455",
+        "color5": "#cd4279",
+        "color6": "#c08b7f",
+        "color7": "#c5c5c5",
+        "color8": "#303232",
+        "color9": "#915753",
+        "color10": "#558689",
+        "color11": "#b27660",
+        "color12": "#2D5A76",
+        "color13": "#FF4499",
+        "color14": "#ffa790",
+        "color15": "#ffffff"
+    }
+}
