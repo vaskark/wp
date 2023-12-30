@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/barbara-palvin-brunette-model-water-drops.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161719",
+        "foreground": "#feffff",
+        "cursor": "#948890"
+    },
+    "colors": {
+        "color0": "#161719",
+        "color1": "#373f53",
+        "color2": "#806b7c",
+        "color3": "#625f6a",
+        "color4": "#41485b",
+        "color5": "#4c424f",
+        "color6": "#948890",
+        "color7": "#c4c5c5",
+        "color8": "#2d2f33",
+        "color9": "#3e4e74",
+        "color10": "#B57BAA",
+        "color11": "#796e96",
+        "color12": "#4a5880",
+        "color13": "#674c70",
+        "color14": "#d29ec1",
+        "color15": "#feffff"
+    }
+}
