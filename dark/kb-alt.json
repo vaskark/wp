@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jason/Pictures/cPnOs1p.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1b1c",
+        "foreground": "#ffffff",
+        "cursor": "#75c1d3"
+    },
+    "colors": {
+        "color0": "#1b1b1c",
+        "color1": "#7d504e",
+        "color2": "#456c73",
+        "color3": "#c76947",
+        "color4": "#41547d",
+        "color5": "#914a6c",
+        "color6": "#5193b5",
+        "color7": "#c6c6c6",
+        "color8": "#333335",
+        "color9": "#af5b58",
+        "color10": "#4D94A1",
+        "color11": "#FF804A",
+        "color12": "#4868ae",
+        "color13": "#CA518B",
+        "color14": "#58C4FC",
+        "color15": "#ffffff"
+    }
+}
