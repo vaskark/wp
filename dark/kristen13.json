@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/jason/Pictures/kristen-stewart-dories-closeup-photoshoot-88.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#1C1C1C",
+        "foreground": "#ECEBE7",
+        "cursor": "#96948B"
+    },
+    "colors": {
+        "color0": "#1C1C1C",
+        "color1": "#4B2723",
+        "color2": "#505046",
+        "color3": "#8C5F57",
+        "color4": "#3E7384",
+        "color5": "#AE494E",
+        "color6": "#545861",
+        "color7": "#DBDAD4",
+        "color8": "#353535",
+        "color9": "#64342E",
+        "color10": "#6B6A5E",
+        "color11": "#BB7E74",
+        "color12": "#539AB0",
+        "color13": "#F24E56",
+        "color14": "#616D89",
+        "color15": "#DBDAD4"
+    }
+}
