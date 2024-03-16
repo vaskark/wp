@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/mnt/2A5CDD075CDCCF27/Users/jtric/Pictures/natalie-portman-celebrities-girls-hd-wallpaper-af5b8b5740931efea4ffc07d6a094f31.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#1D1D1F",
+        "foreground": "#F8F4F2",
+        "cursor": "#B09D94"
+    },
+    "colors": {
+        "color0": "#040406",
+        "color1": "#2A2935",
+        "color2": "#4F3F44",
+        "color3": "#886C65",
+        "color4": "#7E778C",
+        "color5": "#B28773",
+        "color6": "#B09D94",
+        "color7": "#EDE7E5",
+        "color8": "#A6A2A0",
+        "color9": "#393746",
+        "color10": "#69555A",
+        "color11": "#B59087",
+        "color12": "#A89FBB",
+        "color13": "#EEB49A",
+        "color14": "#EBD1C5",
+        "color15": "#EDE7E5"
+    }
+}
