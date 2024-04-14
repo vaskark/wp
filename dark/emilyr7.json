@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/jason/Pictures/women-model-brunette-long-hair-wallpaper-9c9ec55c0c03cc1183d4a22d0bd7066b.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#151312",
+        "foreground": "#F0F1F1",
+        "cursor": "#A0A1A0"
+    },
+    "colors": {
+        "color0": "#090706",
+        "color1": "#211B15",
+        "color2": "#789686",
+        "color3": "#745D4E",
+        "color4": "#50463E",
+        "color5": "#945955",
+        "color6": "#A0A1A0",
+        "color7": "#E2E3E2",
+        "color8": "#9E9F9E",
+        "color9": "#2C241C",
+        "color10": "#8AD4AD",
+        "color11": "#9A7C68",
+        "color12": "#715947",
+        "color13": "#CF6460",
+        "color14": "#D5D7D6",
+        "color15": "#E2E3E2"
+    }
+}
