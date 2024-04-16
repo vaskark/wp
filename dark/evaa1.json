@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/jason/Pictures/actress-amurri-eva-faces-wallpaper-c28122b0eda66e9b1ad8e2e5e0a84992.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#131413",
+        "foreground": "#E5E9EA",
+        "cursor": "#7B8E93"
+    },
+    "colors": {
+        "color0": "#070807",
+        "color1": "#715348",
+        "color2": "#445249",
+        "color3": "#946C5F",
+        "color4": "#5D7275",
+        "color5": "#B66B76",
+        "color6": "#7B8E93",
+        "color7": "#D2D8D9",
+        "color8": "#939798",
+        "color9": "#966E60",
+        "color10": "#5B6D62",
+        "color11": "#C6907F",
+        "color12": "#7C989C",
+        "color13": "#ED7588",
+        "color14": "#A4BDC4",
+        "color15": "#D2D8D9"
+    }
+}
